@@ -1,0 +1,85 @@
+{
+  "list":[
+    {
+      "userid":"10015",
+      "account":"dujiangchua",
+      "username":"杜江川",
+      "usertell":"18812341234",
+      "deliveryaddress":"浙江省 杭州市",
+      "company":"浙江省公司",
+      "role":"普通员工",
+      "status":"可用"
+    },
+    {
+      "userid":"10016",
+      "account":"dujiangchua",
+      "username":"杜江川",
+      "usertell":"18812341234",
+      "deliveryaddress":"浙江省 杭州市",
+      "company":"浙江省公司",
+      "role":"普通员工",
+      "status":"可用"
+    },
+    {
+      "userid":"10017",
+      "account":"dujiangchua",
+      "username":"杜江川",
+      "usertell":"18812341234",
+      "deliveryaddress":"浙江省 杭州市",
+      "company":"浙江省公司",
+      "role":"普通员工",
+      "status":"禁用"
+    },
+    {
+      "userid":"10015",
+      "account":"dujiangchua",
+      "username":"杜江川",
+      "usertell":"18812341234",
+      "deliveryaddress":"浙江省 杭州市",
+      "company":"浙江省公司",
+      "role":"普通员工",
+      "status":"可用"
+    },
+    {
+      "userid":"10018",
+      "account":"dujiangchua",
+      "username":"杜江川",
+      "usertell":"18812341234",
+      "deliveryaddress":"浙江省 杭州市",
+      "company":"浙江省公司",
+      "role":"普通员工",
+      "status":"可用"
+    },
+    {
+      "userid":"10018",
+      "account":"dujiangchua",
+      "username":"杜江川",
+      "usertell":"18812341234",
+      "deliveryaddress":"浙江省 杭州市",
+      "company":"浙江省公司",
+      "role":"普通员工",
+      "status":"可用"
+    },
+    {
+      "userid":"10018",
+      "account":"dujiangchua",
+      "username":"杜江川",
+      "usertell":"18812341234",
+      "deliveryaddress":"浙江省 杭州市",
+      "company":"浙江省公司",
+      "role":"普通员工",
+      "status":"可用"
+    },
+    {
+      "userid":"10015",
+      "account":"dujiangchua",
+      "username":"杜江川",
+      "usertell":"18812341234",
+      "deliveryaddress":"浙江省 杭州市",
+      "company":"浙江省公司",
+      "role":"普通员工",
+      "status":"可用"
+    }
+  ],
+  "total":136
+}

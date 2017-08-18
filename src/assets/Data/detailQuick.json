@@ -1,0 +1,44 @@
+{
+    "id": "888888",
+    "type": "快速询价",
+    "createDate": "2017-07-13 15:00",
+    "cartype": "本田...",
+    "status": "等待报价",
+    "content": "配件一 配件二",
+    "remark":":需求描述需求描述需求描述需求描述需求描述需求描述需求描述需求描述需求描述需求描述需求描述需求描述需求描述需求描述需求描述",
+    "imgArr":["http://bizhi.zhuoku.com/wall/20060511/1440car_071.jpg","http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"],
+    "expiryDate": "三天",
+    "hasTransCost": 0,
+    "qa": [
+        {
+            "isSelf": 0,
+            "q": {
+                "date": "2017-07-17 15:35",
+                "content": "供应商提问内容",
+                "name": "供应商名1",
+                "imgArr":["http://bizhi.zhuoku.com/wall/20060511/1440car_071.jpg","http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"]
+            },
+            "a": {
+                "date": "2017-07-17 15:35",
+                "content": "客户回客户回答内容客户回答内容客户回答内容客户回答内容客户回答内容答内容",
+                "name": "客户1",
+                "imgArr":["http://bizhi.zhuoku.com/wall/20060511/1440car_071.jpg","http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"]
+            }
+        },
+        {
+          "isSelf": 0,
+          "q": {
+            "date": "2017-07-17 15:35",
+            "content": "供应商提问内容",
+            "name": "供应商名2",
+            "imgArr":["http://bizhi.zhuoku.com/wall/20060511/1440car_071.jpg","http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"]
+          },
+          "a": {
+            "date": "2017-07-17 15:35",
+            "content": "客户回答内容",
+            "name": "客户1",
+            "imgArr": ["http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"]
+          }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+  "list":[
+    {
+      "id":123456,
+      "name":"浙江区域 默认加价规则",
+      "company":"好快省总部",
+      "type":"默认类型",
+      "usertype":"1",
+      "uprate":[
+        {"rangestart":0,"rangeend":100,"val":5,"tid":15},
+        {"rangestart":100,"rangeend":1000,"val":2,"tid":10},
+        {"rangestart":1000,"rangeend":100000,"val":5,"tid":5}
+      ],
+      "status":"可用"
+    },
+    {
+      "id":143456,
+      "name":"浙江区域大客户加价规则",
+      "company":"浙江省公司",
+      "type":"大客户",
+      "usertype":"2",
+      "uprate":[
+        {"rangestart":0,"rangeend":100,"val":"5"},
+        {"rangestart":100,"rangeend":1000,"val":"2"},
+        {"rangestart":1000,"rangeend":100000,"val":"5"}
+      ],
+      "status":"禁用"
+    },
+    {
+      "id":323456,
+      "name":"浙江区域合作店加价规则",
+      "company":"浙江省公司",
+      "type":"合作店",
+      "usertype":"3",
+      "uprate":[
+        {"rangestart":0,"rangeend":100,"val":"5"},
+        {"rangestart":100,"rangeend":1000,"val":"2"}
+      ],
+      "status":"可用"
+    }
+  ],
+  "total":58
+}

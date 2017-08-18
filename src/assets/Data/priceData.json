@@ -1,0 +1,104 @@
+{
+  "data":[
+    {
+      "orderId": "123456",
+      "type": "快速询价",
+      "createDate": "2017-07-01 15:29",
+      "status": "等待报价",
+      "imgArr":["http://bizhi.zhuoku.com/wall/20060511/1440car_071.jpg","http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"],
+      "content": "报价的配件内容。。。。",
+      "vehicletype":"大众"
+    },
+    {
+      "orderId": "1111111",
+      "type": "自助询价",
+      "createDate": "2017-07-13 14:20",
+      "status": "等待报价",
+      "imgArr":["http://bizhi.zhuoku.com/wall/20060511/1440car_071.jpg","http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"],
+      "content": "报价的配件内容。。。。",
+      "vehicletype":"大众"
+    },
+    {
+      "orderId": "3333333",
+      "type": "快速询价",
+      "createDate": "2017-07-22 10:03",
+      "status": "已报价",
+      "imgArr":["http://bizhi.zhuoku.com/wall/20060511/1440car_071.jpg","http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"],
+      "content": "报价的配件内容。。。。",
+      "pjdata":["前保险杠皮","左前翼子板","左前翼子板","前保险杠皮","左前翼子板"],
+      "vehicletype":"大众"
+    },
+    {
+      "orderId": "3333333",
+      "type": "快速询价",
+      "createDate": "2017-07-22 10:03",
+      "status": "已失效",
+      "imgArr":["http://bizhi.zhuoku.com/wall/20060511/1440car_071.jpg","http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"],
+      "content": "报价的配件内容。。。。",
+      "pjdata":["前保险杠皮","左前翼子板","左前翼子板","前保险杠皮","左前翼子板"],
+      "vehicletype":"大众"
+    },
+    {
+      "orderId": "3333333",
+      "type": "快速询价",
+      "createDate": "2017-07-22 10:03",
+      "status": "已报价",
+      "imgArr":["http://bizhi.zhuoku.com/wall/20060511/1440car_071.jpg","http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"],
+      "content": "报价的配件内容。。。。",
+      "pjdata":["前保险杠皮","左前翼子板","左前翼子板","前保险杠皮","左前翼子板"],
+      "vehicletype":"大众"
+    },
+    {
+      "orderId": "3333333",
+      "type": "快速询价",
+      "createDate": "2017-07-22 10:03",
+      "status": "已报价",
+      "imgArr":["http://bizhi.zhuoku.com/wall/20060511/1440car_071.jpg","http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"],
+      "content": "报价的配件内容。。。。",
+      "pjdata":["前保险杠皮","左前翼子板","左前翼子板","前保险杠皮","左前翼子板"],
+      "vehicletype":"大众"
+    },
+    {
+      "orderId": "3333333",
+      "type": "快速询价",
+      "createDate": "2017-07-22 10:03",
+      "imgArr":["http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"],
+      "status": "已报价",
+      "content": "报价的配件内容。。。。",
+      "pjdata":["前保险杠皮","左前翼子板","左前翼子板","前保险杠皮","左前翼子板"],
+      "vehicletype":"大众"
+    },
+    {
+      "orderId": "3333333",
+      "type": "快速询价",
+      "createDate": "2017-07-22 10:03",
+      "status": "已报价",
+      "imgArr":[],
+      "content": "报价的配件内容。。。。",
+      "pjdata":["前保险杠皮","左前翼子板","左前翼子板","前保险杠皮","左前翼子板"],
+      "vehicletype":"大众"
+    },
+    {
+      "orderId": "3333333",
+      "type": "快速询价",
+      "createDate": "2017-07-22 10:03",
+      "status": "已报价",
+      "imgArr":["http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"],
+      "content": "报价的配件内容。。。。",
+      "pjdata":["前保险杠皮","左前翼子板","前保险杠皮","左前翼子板"],
+      "vehicletype":"大众"
+    },
+    {
+      "orderId": "3333333",
+      "type": "快速询价",
+      "createDate": "2017-07-22 10:03",
+      "status": "已报价",
+      "imgArr":["http://img2.niutuku.com/desk/1207/0827/ntk63036.jpg"],
+      "content": "报价的配件内容。。。。",
+      "pjdata":["前保险杠皮","左前翼子板","左前翼子板","前保险杠皮"],
+      "vehicletype":"大众"
+    }
+  ],
+  "total": 195,
+  "success": true
+}

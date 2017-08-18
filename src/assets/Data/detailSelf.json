@@ -1,0 +1,24 @@
+{
+  "id": "XJ1708000014",
+  "ttime": "1501997247",
+  "createDate": "2017/8/6 13:27:27",
+  "status": "已失效",
+  "type": "自助询价",
+  "cartype": "波罗两厢(10/12-) 1.6L",
+  "remark": "火花塞",
+  "imgArr": "",
+  "expiryDate": "",
+  "deadline": "2017/8/14 21:17:03",
+  "list": [],
+  "qa": [],
+  "waitlist": [
+    {
+      "name": "火花塞",
+      "remark": "",
+      "imgArr": [
+        "xbjimage/1501996160508.jpg"
+      ]
+    }
+  ],
+  "success": true
+}

@@ -1,0 +1,26 @@
+{
+  "supid": "1708000015",
+  "username": "18565430432",
+  "supname": "18565430432",
+  "supplirename": "18565430432",
+  "suptel": "18565430432",
+  "valid": "True",
+  "status": "可用",
+  "deliveryaddress": "",
+  "company": "浙江区域公司",
+  "province": "浙江省",
+  "city": "杭州市",
+  "area": "拱墅区",
+  "vehicletype": [
+    {
+      "tid": "6",
+      "sid": "1708000015",
+      "availablevehicle": "奥迪"
+    },
+    {
+      "tid": "7",
+      "sid": "1708000015",
+      "availablevehicle": "长城"
+    }
+  ]
+}

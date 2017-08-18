@@ -1,0 +1,216 @@
+{
+  "list":[
+    {
+      "supid":"154647",
+      "supplirename":"供应商名称",
+      "supname":"李四",
+      "suptel":"18812341234",
+      "vehicletype":[
+        {
+          "tid": "1",
+          "sid": "20170701003",
+          "availablevehicle": "大众"
+        },
+        {
+          "tid": "2",
+          "sid": "20170701003",
+          "availablevehicle": "奔驰"
+        }
+      ],
+      "deliveryaddress":"浙江省杭州市拱墅区",
+      "company":"浙江省公司",
+      "status":"可用"
+    },
+    {
+      "supid":"154647",
+      "supplirename":"供应商名称",
+      "supname":"李四",
+      "suptel":"18812341234",
+      "vehicletype":[
+        {
+          "tid": "1",
+          "sid": "20170701003",
+          "availablevehicle": "大众"
+        },
+        {
+          "tid": "2",
+          "sid": "20170701003",
+          "availablevehicle": "奔驰"
+        }
+      ],
+      "deliveryaddress":"浙江省杭州市拱墅区",
+      "company":"浙江省公司",
+      "status":"禁用"
+    },
+    {
+      "supid":"154647",
+      "supplirename":"供应商名称",
+      "supname":"李四",
+      "suptel":"18812341234",
+      "vehicletype":[
+        {
+          "tid": "1",
+          "sid": "20170701003",
+          "availablevehicle": "大众"
+        },
+        {
+          "tid": "2",
+          "sid": "20170701003",
+          "availablevehicle": "奔驰"
+        }
+      ],
+      "deliveryaddress":"浙江省杭州市拱墅区",
+      "company":"浙江省公司",
+      "status":"可用"
+    },
+    {
+      "supid":"154647",
+      "supplirename":"供应商名称",
+      "supname":"李四",
+      "suptel":"18812341234",
+      "vehicletype":[
+        {
+          "tid": "1",
+          "sid": "20170701003",
+          "availablevehicle": "大众"
+        },
+        {
+          "tid": "2",
+          "sid": "20170701003",
+          "availablevehicle": "奔驰"
+        }
+      ],
+      "deliveryaddress":"浙江省杭州市拱墅区",
+      "company":"浙江省公司",
+      "status":"可用"
+    },
+    {
+      "supid":"154647",
+      "supplirename":"供应商名称",
+      "supname":"李四",
+      "suptel":"18812341234",
+      "vehicletype":[
+        {
+          "tid": "1",
+          "sid": "20170701003",
+          "availablevehicle": "大众"
+        },
+        {
+          "tid": "2",
+          "sid": "20170701003",
+          "availablevehicle": "奔驰"
+        }
+      ],
+      "deliveryaddress":"浙江省杭州市拱墅区",
+      "company":"浙江省公司",
+      "status":"可用"
+    },
+    {
+      "supid":"154647",
+      "supplirename":"供应商名称",
+      "supname":"李四",
+      "suptel":"18812341234",
+      "vehicletype":[
+        {
+          "tid": "1",
+          "sid": "20170701003",
+          "availablevehicle": "大众"
+        },
+        {
+          "tid": "2",
+          "sid": "20170701003",
+          "availablevehicle": "奔驰"
+        }
+      ],
+      "deliveryaddress":"浙江省杭州市拱墅区",
+      "company":"浙江省公司",
+      "status":"可用"
+    },
+    {
+      "supid":"154647",
+      "supplirename":"供应商名称",
+      "supname":"李四",
+      "suptel":"18812341234",
+      "vehicletype":[
+        {
+          "tid": "1",
+          "sid": "20170701003",
+          "availablevehicle": "大众"
+        },
+        {
+          "tid": "2",
+          "sid": "20170701003",
+          "availablevehicle": "奔驰"
+        }
+      ],
+      "deliveryaddress":"浙江省杭州市拱墅区",
+      "company":"浙江省公司",
+      "status":"禁用"
+    },
+    {
+      "supid":"154647",
+      "supplirename":"供应商名称",
+      "supname":"李四",
+      "suptel":"18812341234",
+      "vehicletype":[
+        {
+          "tid": "1",
+          "sid": "20170701003",
+          "availablevehicle": "大众"
+        },
+        {
+          "tid": "2",
+          "sid": "20170701003",
+          "availablevehicle": "奔驰"
+        }
+      ],
+      "deliveryaddress":"浙江省杭州市拱墅区",
+      "company":"浙江省公司",
+      "status":"可用"
+    },
+    {
+      "supid":"154647",
+      "supplirename":"供应商名称",
+      "supname":"李四",
+      "suptel":"18812341234",
+      "vehicletype":[
+        {
+          "tid": "1",
+          "sid": "20170701003",
+          "availablevehicle": "大众"
+        },
+        {
+          "tid": "2",
+          "sid": "20170701003",
+          "availablevehicle": "奔驰"
+        }
+      ],
+      "deliveryaddress":"浙江省杭州市拱墅区",
+      "company":"浙江省公司",
+      "status":"可用"
+    },
+    {
+      "supid":"154647",
+      "supplirename":"供应商名称",
+      "supname":"李四",
+      "suptel":"18812341234",
+      "vehicletype":[
+        {
+          "tid": "1",
+          "sid": "20170701003",
+          "availablevehicle": "大众"
+        },
+        {
+          "tid": "2",
+          "sid": "20170701003",
+          "availablevehicle": "奔驰"
+        }
+      ],
+      "deliveryaddress":"浙江省杭州市拱墅区",
+      "company":"浙江省公司",
+      "status":"可用"
+    }
+  ],
+  "total":105
+}
+
