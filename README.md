@@ -5,3 +5,4 @@
 
 `npm run dev`
 
+![](http://www.baidu.com/img/bdlogo.gif) 
